@@ -28,10 +28,10 @@
     "http-server": "^14.1.1"
   },
   "dependencies": {
-    "eslint-plugin-no-for-loop": "file:eslint-plugin-no-for-loop",
     "eslint": "^8.56.0",
+    "eslint-plugin-no-for-loop": "file:eslint-plugin-no-for-loop",
     "eslint-plugin-unicorn": "^50.0.1",
     "serve": "^14.0.1",
-    "start-server-and-test": "^1.14.0"
+    "start-server-and-test": "^3.0.2"
   }
 }
